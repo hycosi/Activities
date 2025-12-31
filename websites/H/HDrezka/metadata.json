@@ -14,7 +14,8 @@
     "rezka.ag",
     "hdrezka.ag",
     "rezka-ua.org",
-    "standby-rezka.tv"
+    "standby-rezka.tv",
+    "rezkify.com"
   ],
   "regExp": "^https?[:][/][/](rezka[.]ag|hdrezka[.]ag|rezka-ua[.]org|standby-rezka[.]tv)[/]",
   "version": "1.2.0",
